@@ -1,0 +1,23 @@
+.center{
+    text-align: center;
+}
+
+.bg{
+    background-color:rgb(200, 194, 194)(255, 255, 255);
+}
+
+.maxauto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+   flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
