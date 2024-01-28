@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This JavaScript calculator project is designed to perform basic arithmetic operations. It provides a user-friendly interface and is a simple yet functional tool for mathematical calculations.
 
 Features
