@@ -9,3 +9,6 @@ Responsive design for various screen sizes
 Getting Started
 Prerequisites
 Make sure you have a modern web browser installed (Chrome, Firefox, Safari, etc.).
+
+
+All Contributions are welcomed , feel free to create issues and contribute to this project and make it the most awesome calculator ever...  :)
